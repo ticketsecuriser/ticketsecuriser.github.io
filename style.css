@@ -317,6 +317,13 @@ section {
   background-color: rgba(3, 68, 188, 0.6);
 }
 
+.home .container img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+}
+
 .home h6 {
   padding-bottom: 1.5rem;
   color: var(--white);
